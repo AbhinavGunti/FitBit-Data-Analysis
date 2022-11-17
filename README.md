@@ -1,6 +1,4 @@
-# FitBit-Data-Analysis
-
-![Fitbit-Logo-2016-present](https://user-images.githubusercontent.com/78372006/202515662-796778cd-18d0-4b06-a7f7-85cd1410d532.jpg)
+# FitBit-Data-Analysis ![Fitbit-Logo-2016-present](https://user-images.githubusercontent.com/78372006/202515662-796778cd-18d0-4b06-a7f7-85cd1410d532.jpg =250x250)
 # UE20CS312 - Data Analytics
 
 ## Abhinav Gunti (PES1UG20CS008)
