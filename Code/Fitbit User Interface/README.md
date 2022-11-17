@@ -1,3 +1,4 @@
-# Fitbit Fitness Analysis User Interface
+## Fitbit Fitness Analysis User Interface
 For out project we have implemented the front end using streamlit
+
 To run the web app enter the folowing command from this project directory : streamlit run app.py
